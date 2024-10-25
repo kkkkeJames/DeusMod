@@ -1,0 +1,277 @@
+Keybinds: {
+	Block.DisplayName: Block
+	"Special Reload.DisplayName": Special  Reload
+	Reload.DisplayName: Reload
+}
+
+Buffs: {
+	SlimedTier2: {
+		DisplayName: Slimed Tier2
+		Description: Mods.DeusMod.Buffs.SlimedTier2.Description
+	}
+
+	AmberEnergyStaffBuff: {
+		DisplayName: Amber Energy Staff Buff
+		Description: Mods.DeusMod.Buffs.AmberEnergyStaffBuff.Description
+	}
+
+	AmethystEnergyStaffBuff: {
+		DisplayName: Amethyst Energy Staff Buff
+		Description: Mods.DeusMod.Buffs.AmethystEnergyStaffBuff.Description
+	}
+
+	DiamondEnergyStaffBuff: {
+		DisplayName: Diamond Energy Staff Buff
+		Description: Mods.DeusMod.Buffs.DiamondEnergyStaffBuff.Description
+	}
+
+	EmeraldEnergyStaffBuff: {
+		DisplayName: Emerald Energy Staff Buff
+		Description: Mods.DeusMod.Buffs.EmeraldEnergyStaffBuff.Description
+	}
+
+	RubyEnergyStaffBuff: {
+		DisplayName: Ruby Energy Staff Buff
+		Description: Mods.DeusMod.Buffs.RubyEnergyStaffBuff.Description
+	}
+
+	SapphireEnergyStaffBuff: {
+		DisplayName: Sapphire Energy Staff Buff
+		Description: Mods.DeusMod.Buffs.SapphireEnergyStaffBuff.Description
+	}
+
+	TopazEnergyStaffBuff: {
+		DisplayName: Topaz Energy Staff Buff
+		Description: Mods.DeusMod.Buffs.TopazEnergyStaffBuff.Description
+	}
+
+	KnockoutDebuff: {
+		DisplayName: Knockout Debuff
+		Description: Mods.DeusMod.Buffs.KnockoutDebuff.Description
+	}
+}
+
+Items: {
+	AODN: {
+		DisplayName: Apocalpyse of Dreary Night
+		Tooltip: ""
+	}
+
+	ShiningGem: {
+		DisplayName: Shining Gem
+		Tooltip: ""
+	}
+
+	WoodenShield: {
+		DisplayName: Wooden Shield
+		Tooltip:
+			'''
+			Press G to increase defense by 2
+			Press G right before being attack would parry that attack
+			'''
+	}
+
+	MagnumBullet: {
+		DisplayName: Magnum Bullet
+		Tooltip: ""
+	}
+
+	BloodyEdge: {
+		DisplayName: Bloody Edge
+		Tooltip: ""
+	}
+
+	Kunai: {
+		DisplayName: Kunai
+		Tooltip: ""
+	}
+
+	SlimyKunai: {
+		DisplayName: Slimy Kunai
+		Tooltip: ""
+	}
+
+	SlimyShuriken: {
+		DisplayName: Slimy Shuriken
+		Tooltip: ""
+	}
+
+	SlimyThrowingKnife: {
+		DisplayName: Slimy Throwing Knife
+		Tooltip: ""
+	}
+
+	LighteningHawk: {
+		DisplayName: Lightening Hawk
+		Tooltip: ""
+	}
+
+	AmberEnergyStaff: {
+		DisplayName: Amber Energy Staff
+		Tooltip: ""
+	}
+
+	AmethystEnergyStaff: {
+		DisplayName: Amethyst Energy Staff
+		Tooltip: ""
+	}
+
+	DiamondEnergyStaff: {
+		DisplayName: Diamond Energy Staff
+		Tooltip: ""
+	}
+
+	EmeraldEnergyStaff: {
+		DisplayName: Emerald Energy Staff
+		Tooltip: ""
+	}
+
+	RubyEnergyStaff: {
+		DisplayName: Ruby Energy Staff
+		Tooltip: ""
+	}
+
+	SapphireEnergyStaff: {
+		DisplayName: Sapphire Energy Staff
+		Tooltip: ""
+	}
+
+	TopazEnergyStaff: {
+		DisplayName: Topaz Energy Staff
+		Tooltip: ""
+	}
+
+	SlashTest: {
+		DisplayName: Slash Test
+		Tooltip: ""
+	}
+
+	GelatinJelly: {
+		DisplayName: Gelatin Jelly
+		Tooltip:
+			'''
+			Minor improvements to all stats
+			'Carry your pot, kill some slimes, then you would never get hungry underground!'
+			'Wait, he ate the plate...'
+			'''
+	}
+
+	ScytheOfRetribution: {
+		DisplayName: Scythe Of Retribution
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	CultistArcherBlack.DisplayName: Cultist Archer Black
+	CultistVindicatorBlack.DisplayName: Cultist Vindicator Black
+	BloodyLament.DisplayName: Bloody Lament
+	CultistSorcererBlack.DisplayName: Cultist Sorcerer Black
+	LeechedBlack.DisplayName: Leeched Black
+	OverloadedKingAntlion.DisplayName: Overloaded King Antlion
+}
+
+Projectiles: {
+	WoodenShieldBlock.DisplayName: Wooden Shield Block
+	MagnumProj.DisplayName: Magnum Proj
+	BaseProj.DisplayName: Base Proj
+	NightsEdgeCrack.DisplayName: Nights Edge Crack
+	NightsEdgeRapidAttack.DisplayName: Nights Edge Rapid Attack
+	NightsEdgeRapidSlash.DisplayName: Nights Edge Rapid Slash
+	NightsEdgeTarg.DisplayName: Nights Edge Targ
+	PlayerKunai.DisplayName: Player Kunai
+	PlayerSlimyKunai.DisplayName: Player Slimy Kunai
+	PlayerSlimyShuriken.DisplayName: Player Slimy Shuriken
+	PlayerSlimyThrowingKnife.DisplayName: Player Slimy Throwing Knife
+	SpearSlash.DisplayName: Spear Slash
+	ThrowSpear.DisplayName: Throw Spear
+	BaneSlash.DisplayName: Bane Slash
+	BaneVortex.DisplayName: Bane Vortex
+	BladeOfGrassSlash.DisplayName: Blade Of Grass Slash
+	BloodButchererSlash.DisplayName: Blood Butcherer Slash
+	EnchantedSwordCircle.DisplayName: Enchanted Sword Circle
+	EnchantedSwordDust.DisplayName: Enchanted Sword Dust
+	EnchantedSwordExplosion.DisplayName: Enchanted Sword Explosion
+	EnchantedSwordSlash.DisplayName: Enchanted Sword Slash
+	GrassSlash.DisplayName: Grass Slash
+	LightsBaneSlash.DisplayName: Lights Bane Slash
+	LightsBaneTwist.DisplayName: Lights Bane Twist
+	PHMOreShortSwordsSlash.DisplayName: P H M Ore Short Swords Slash
+	PHMOreSwordsSlash.DisplayName: P H M Ore Swords Slash
+	SwordEnchant.DisplayName: Sword Enchant
+	LighteningHawkCase.DisplayName: Lightening Hawk Case
+	LighteningHawkReload.DisplayName: Lightening Hawk Reload
+	LighteningHawkShootH.DisplayName: Lightening Hawk Shoot H
+	LighteningHawkShootS.DisplayName: Lightening Hawk Shoot S
+	MusketReload.DisplayName: Musket Reload
+	MusketShootH.DisplayName: Musket Shoot H
+	MusketShootS.DisplayName: Musket Shoot S
+	MusketSpecialBullet.DisplayName: Musket Special Bullet
+	MusketSpecialReload.DisplayName: Musket Special Reload
+	MusketTarget.DisplayName: Musket Target
+	UndertakerLoadBullet.DisplayName: Undertaker Load Bullet
+	UndertakerLoadBulletSpecial.DisplayName: Undertaker Load Bullet Special
+	UndertakerReload.DisplayName: Undertaker Reload
+	UndertakerShootH.DisplayName: Undertaker Shoot H
+	UndertakerShootS.DisplayName: Undertaker Shoot S
+	UndertakerSpecialBullet.DisplayName: Undertaker Special Bullet
+	UndertakerSpecialReload.DisplayName: Undertaker Special Reload
+	AmberEnergyAggregate.DisplayName: Amber Energy Aggregate
+	AmethystEnergyAggregate.DisplayName: Amethyst Energy Aggregate
+	DiamondEnergyAggregate.DisplayName: Diamond Energy Aggregate
+	EmeraldEnergyAggregate.DisplayName: Emerald Energy Aggregate
+	RubyEnergyAggregate.DisplayName: Ruby Energy Aggregate
+	SapphireEnergyAggregate.DisplayName: Sapphire Energy Aggregate
+	TopazEnergyAggregate.DisplayName: Topaz Energy Aggregate
+	CultistVindicatorBlackSword.DisplayName: Cultist Vindicator Black Sword
+	BossSlimyKunai.DisplayName: Boss Slimy Kunai
+	BossSlimyShuriken.DisplayName: Boss Slimy Shuriken
+	BossSlimyThrowingKnife.DisplayName: Boss Slimy Throwing Knife
+	BurstGel.DisplayName: Burst Gel
+	KSRestriction.DisplayName: K S Restriction
+	SmallBurstGel.DisplayName: Small Burst Gel
+	StickyGel.DisplayName: Sticky Gel
+	VolatileGel.DisplayName: Volatile Gel
+	AccumulateLight.DisplayName: Accumulate Light
+	CircleWarn.DisplayName: Circle Warn
+	LineWarn.DisplayName: Line Warn
+	ExampleSlashWeapon.DisplayName: Example Slash Weapon
+	HeroSlash2.DisplayName: Hero Slash2
+	HeroSlashMethod.DisplayName: Hero Slash Method
+	NightEdgeComboASlash1.DisplayName: Night Edge Combo A Slash1
+	MeleeSkill_Accumulate.DisplayName: Melee Skill_ Accumulate
+	MeleeSkill_Execute.DisplayName: Melee Skill_ Execute
+	MeleeSkill_Slash.DisplayName: Melee Skill_ Slash
+	BulletPack1.DisplayName: Bullet Pack1
+	BulletShell1.DisplayName: Bullet Shell1
+	CopperBroadswordSlash.DisplayName: Copper Broadsword Slash
+	CopperShortSwordSlash.DisplayName: Copper Short Sword Slash
+	GoldBroadswordSlash.DisplayName: Gold Broadsword Slash
+	GoldShortSwordSlash.DisplayName: Gold Short Sword Slash
+	IronBroadswordSlash.DisplayName: Iron Broadsword Slash
+	IronShortSwordSlash.DisplayName: Iron Short Sword Slash
+	LeadBroadswordSlash.DisplayName: Lead Broadsword Slash
+	LeadShortSwordSlash.DisplayName: Lead Short Sword Slash
+	PlatinumBroadswordSlash.DisplayName: Platinum Broadsword Slash
+	PlatinumShortSwordSlash.DisplayName: Platinum Short Sword Slash
+	SilverBroadswordSlash.DisplayName: Silver Broadsword Slash
+	SilverShortSwordSlash.DisplayName: Silver Short Sword Slash
+	TinBroadswordSlash.DisplayName: Tin Broadsword Slash
+	TinShortSwordSlash.DisplayName: Tin Short Sword Slash
+	TungstenBroadswordSlash.DisplayName: Tungsten Broadsword Slash
+	TungstenShortSwordSlash.DisplayName: Tungsten Short Sword Slash
+	GlobalSwordLight.DisplayName: Global Sword Light
+	ScytheOfRetributionRangedHostile.DisplayName: Scythe Of Retribution Ranged Hostile
+	ScytheOfRetributionProjHostile.DisplayName: Scythe Of Retribution Proj Hostile
+	ScytheOfRetributionSlash.DisplayName: Scythe Of Retribution Slash
+	ScytheOfRetributionProjFriendly.DisplayName: Scythe Of Retribution Proj Friendly
+	LightsBaneHook.DisplayName: Lights Bane Hook
+	FlyingGrass.DisplayName: Flying Grass
+	StraightLightening.DisplayName: Storm Thunder
+	TargetedLineWarn.DisplayName: Targeted Line Warn
+	StraightThunder.DisplayName: Straight Thunder
+	EnterThunder.DisplayName: Enter Thunder
+	LargeLighteningExplosion.DisplayName: Large Lightening Explosion
+	LargeLightningExplosion.DisplayName: Large Lightning Explosion
+	LightningBall.DisplayName: Lightning Ball
+}

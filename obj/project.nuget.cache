@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRUU7r0YZY/sC5oM8cbKD6jHEnbPEuDZn/sB3IznPMYRfn0PK4mmUGO3fFFgcMMkG0pza/fJVJO6tsLafoJSdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kkkke-James\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DeusMod\\DeusMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkkke-James\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

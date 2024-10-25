@@ -1,0 +1,4 @@
+displayName = Deus
+author = Darkslayer
+version = 0.1
+modReferences = StructureHelper, ParticleLibrary

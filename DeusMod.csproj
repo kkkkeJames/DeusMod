@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>DeusMod</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Effects\Textures\Border.fx" />
+    <None Remove="Effects\Textures\Light.fx" />
+    <None Remove="Effects\WeakGlowDust.fx" />
+    <None Remove="Localization\zh-Hans_Mods.DeusMod.hjson" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\UI\" />
+    <Folder Include="Assets\Visuals\" />
+    <Folder Include="Core\Prefabs\" />
+    <Folder Include="lib\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="ParticleLibrary">
+      <HintPath>lib\ParticleLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureHelper">
+      <HintPath>..\..\ModReader\StructureHelper\StructureHelper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
